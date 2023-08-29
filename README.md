@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-# GemGrove 
+# GemGrove (ongoing)
 
 GemGrove is an E-commerce website built using modern web technologies to provide users with a seamless online shopping experience. The website offers a variety of features including user authentication, product catalog, shopping cart, customer support, payment gateway integration, reviews and ratings, wishlists, discounts and coupons, and personalization.
 
